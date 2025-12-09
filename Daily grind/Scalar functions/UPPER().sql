@@ -1,3 +1,4 @@
+-- Scalar function 
 use  aggregate_functions;
 
 select * from students;
