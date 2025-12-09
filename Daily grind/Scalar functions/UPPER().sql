@@ -2,7 +2,7 @@ use  aggregate_functions;
 
 select * from students;
 
-Convert all student names to uppercase.
+-- Convert all student names to uppercase.
 select upper(name) from students;
 
 -- Display course names in uppercase.
